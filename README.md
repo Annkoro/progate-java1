@@ -1,1 +1,1 @@
-# progate-java1
+# Progate Javaのレッスン1
