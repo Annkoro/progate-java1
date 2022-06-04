@@ -25,6 +25,7 @@ class Person {
   public static double bmi(double height, double weight) {
     return weight / height / height;
   }
+
   public static boolean isHealthy(double bmi) {
     return bmi >= 18.5 && bmi < 25.0;
   }
