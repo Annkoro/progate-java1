@@ -23,5 +23,6 @@ class Main {
       double weight = scanner.nextDouble();
       Person.printData(firstName, lastName, age, height, weight);
     }
+    System.out.println("最高年齢は" + maxAge + "歳です");
   }
 }
